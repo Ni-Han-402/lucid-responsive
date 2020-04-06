@@ -1,0 +1,444 @@
+
+@media (max-width: 1300px) 
+{ 
+    .about-mobile img {
+        width: 350px;
+        margin-top: 80px;
+    }
+
+    .mobile-short-img img {
+        width: 520px;
+        margin-top: 30px;
+    }
+    .mobile-short-content {
+        margin-top: 60px;
+    }
+    .mobile-short-content h1{ 
+        font-size: 30px;
+    }
+    .mobile-short-content p{
+        font-size: 18px;
+    }
+
+
+    .card-content h1 {
+        font-size: 28px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card-body h2 {
+        font-size: 24px;
+    }
+    .card-body h1 {
+        font-size: 35px;
+    }
+    .card-text p {
+        font-size: 14px;
+    }
+    .btn-custom-mbl {
+        font-size: 15px;
+        margin: 15px 0;
+    }
+ 
+
+
+}
+@media (max-width: 990px) {
+    .btn-custom {
+        font-size: 12px;
+    }
+    .features-content h1 {
+        font-size: 40px;
+        margin-top: 30px;
+    }
+    .service-item h3 {
+        font-size: 20px;
+    }
+
+    .about-mobile img {
+        width: 320px;
+        margin-top: 100px;
+    }
+    .about-mobile-content h1 {
+        font-size: 30px;
+    }
+
+
+    .mobile-short-img img {
+        width: 400px;
+        height: 350px;
+        margin-top: 20px;
+    }
+    .mobile-short-content {
+        margin-top: 50px;
+    }
+    .mobile-short-content h1 {
+        font-size: 24px;
+        margin-top: 25px;
+    }
+
+
+    .download-section h1 {
+        font-size: 25px;
+    }
+
+    
+    .card-content h1 {
+        font-size: 25px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card-body h2 {
+        font-size: 20px;
+    }
+    .card-body h1 {
+        font-size: 30px;
+    }
+    .card-text p {
+        font-size: 12px;
+    }
+    .btn-custom-mbl {
+        font-size: 12px;
+        margin: 15px 0;
+    }
+ 
+}
+@media (max-width: 767px) {
+    .banner-content {
+        height: 470px;
+    }
+    .banner-img img {
+        display: none;
+    }
+    .banner-content {
+        padding-top: 100px;
+        text-align: center;
+    }
+    .banner-content h4 {
+        font-size: 22px;
+    }
+    .banner-content h1 {
+        font-size: 30px;
+    }
+    .btn-custom {
+        padding: 10px 13px;
+        font-size: 12px;
+    }
+
+
+    .features-content h1 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .service-item h3 {
+        font-size: 18px;
+    }
+
+    .about-mobile {
+        margin: 0;
+    }
+    .about-mobile img {
+        display: none;
+    }
+    .about-mobile-content h1 {
+        font-size: 35px;
+    }
+
+
+    .mobile-short-img img {
+        display: none;
+    }
+    .mobile-short-content {
+        margin-top: 40px;
+    }
+    .mobile-short-content h1 {
+        font-size: 35px;
+        margin-top: 30px;
+    }
+    .mobile-short-content p {
+        font-size: 16px;
+    }
+
+
+    .card-content h1 {
+        font-size: 30px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card {
+        margin-top: 20px;
+    }
+    .card-body h2 {
+        font-size: 25px;
+    }
+    .card-body h1 {
+        font-size: 32px;
+    }
+    .card-text p {
+        font-size: 16px;
+    }
+    .btn-custom-mbl {
+        font-size: 18px;
+        margin: 15px 0;
+    }
+
+
+    
+    .contact-service-section h1 {
+        margin: 20px 0;
+        font-size: 34px;
+    }
+    .contact-service {
+        margin-top: 15px;
+    }
+    .contact-service p{
+        font-size: 18px;
+    }
+    .btn-button {
+        font-size: 14px;
+        margin-left: 62%;
+    }
+ 
+}
+@media (max-width: 575px) {
+    .banner-img img {
+        display: none;
+    }
+    .banner-content {
+        padding-top: 100px;
+        text-align: center;
+    }
+    .banner-content h4 {
+        font-size: 20px;
+    }
+    .banner-content h1 {
+        font-size: 25px;
+        margin-top: 40px;
+    }
+    .banner-content p {
+        margin-top: 40px;
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+    .btn-custom{
+        margin-top: 40px;
+        margin-right: 20px;
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+
+
+    .service-item h3 {
+        font-size: 22px;
+    }
+
+
+    .about-mobile {
+        margin: 0;
+    }
+    .about-mobile img {
+        display: none;
+    }
+    .about-mobile-content h1 {
+        font-size: 30px;
+    }
+
+
+    .mobile-short-img img {
+        display: none;
+    }
+    .mobile-short-content {
+        margin-top: 40px;
+    }
+    .mobile-short-content h1 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .mobile-short-content p {
+        font-size: 16px;
+    }
+
+
+    .card-content h1 {
+        font-size: 26px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card {
+        margin-top: 20px;
+    }
+    .card-body h2 {
+        font-size: 22px;
+    }
+    .card-body h1 {
+        font-size: 30px;
+    }
+    .card-text p {
+        font-size: 14px;
+    }
+    .btn-custom-mbl {
+        font-size: 14px;
+        margin: 15px 0;
+    }
+
+
+    .contact-service-section h1 {
+        margin: 20px 0;
+        font-size: 30px;
+    }
+    .contact-service {
+        margin-top: 15px;
+    }
+    .contact-service p{
+        font-size: 15px;
+    }
+    .btn-button {
+        font-size: 12px;
+        margin-left: 60%;
+    }
+ 
+}
+@media (max-width: 480px) {
+    .banner-content {
+        height: 470px;
+    }
+    .banner-img img {
+        display: none;
+    }
+    .banner-content {
+        padding-top: 100px;
+        text-align: center;
+    }
+    .banner-content h4 {
+        font-size: 18px;
+    }
+    .banner-content h1 {
+        font-size: 24px;
+        margin-top: 20px;
+    }
+    .banner-content p {
+        margin-top: 25px;
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+    .btn-custom{
+        margin-right: 20px;
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+
+
+    
+    .features-content h1 {
+        font-size: 25px;
+        margin-top: 25px;
+    }
+    .service-item h3 {
+        font-size: 16px;
+    }
+    .service-item p {
+        font-size: 14px;
+    }
+
+    .about-mobile {
+        margin: 0;
+    }
+    .about-mobile img {
+        display: none;
+    }
+    .about-mobile-content h1 {
+        font-size: 25px;
+    }
+
+
+    .mobile-short-img img {
+        display: none;
+    }
+    .mobile-short-content {
+        margin-top: 40px;
+    }
+    .mobile-short-content h1 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+    .mobile-short-content p {
+        font-size: 14px;
+    }
+
+
+    .testimonial-section h1 {
+        margin-top: 30px;
+        font-size: 25px;
+    }
+    .owl-carousel .item h4 {
+        font-size: 15px;
+    }
+    .owl-carousel .item h4 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fff;
+    font-weight: 300;
+    font-style: italic;
+    padding: 0 15px;
+    font-size: 15px;
+    }
+    .client-details h6 {
+        font-size: 15px;
+    }
+    .owl-carousel .owl-item img {
+        padding-top: 10px;
+    }
+
+
+    .download-section h1 {
+        font-size: 22px;
+    }
+    .download-button{
+        margin-top: 10px;
+    }
+    .btn-view{
+        font-size: 12px;
+    }
+    .btn-download{
+        font-size: 12px;
+    }
+
+
+    .card-content h1 {
+        font-size: 25px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .card {
+        margin-top: 20px;
+    }
+    .card-body h2 {
+        font-size: 20px;
+    }
+    .card-body h1 {
+        font-size: 30px;
+    }
+    .card-text p {
+        font-size: 13px;
+    }
+    .btn-custom-mbl {
+        font-size: 12px;
+        margin: 15px 0;
+    }
+
+
+    .contact-service-section h1 {
+        margin: 20px 0;
+        font-size: 25px;
+    }
+    .contact-service {
+        margin-top: 15px;
+    }
+    .contact-service p{
+        font-size: 12px;
+    }
+    .btn-button {
+        font-size: 10px;
+        margin-left: 44%;
+    }
+ 
+}
